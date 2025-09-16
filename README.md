@@ -86,16 +86,17 @@ def train_model(model, train_loader, num_epochs=3):
           running_loss += loss.item()
 
 
-        print('Name:Stephen raj Y')
-        print('Register Number:  212223230217     ')
+        print('Name:jenittan jose j b')
+        print('Register Number:  212224240063     ')
         print(f'Epoch [{epoch+1}/{num_epochs}], Loss: {running_loss/len(train_loader):.4f}')
+
 
 
 ```
 
 ## OUTPUT
 ### Training Loss per Epoch
-<img width="373" height="218" alt="image" src="https://github.com/user-attachments/assets/5cd7b191-0d81-479e-940d-c793513d34b3" />
+
 
 
 ### Confusion Matrix
@@ -105,13 +106,14 @@ def train_model(model, train_loader, num_epochs=3):
 
 ### Classification Report
 
-<img width="609" height="454" alt="image" src="https://github.com/user-attachments/assets/d46f04f7-7a2b-4570-a846-5c5bf088046b" />
+<img width="702" height="469" alt="Screenshot 2025-09-16 111129" src="https://github.com/user-attachments/assets/32be0adc-5688-4d2c-9026-69bc248beefd" />
+
 
 
 
 ### New Sample Data Prediction
 
-<img width="563" height="621" alt="image" src="https://github.com/user-attachments/assets/3306b90e-a2fe-4ac5-8709-d1e941bda23a" />
+<img width="656" height="689" alt="Screenshot 2025-09-16 111117" src="https://github.com/user-attachments/assets/cced1eb7-76a7-4f0a-940a-985f3901ba8c" />
 
 
 ## RESULT
